@@ -83,7 +83,7 @@ it will install the required gemfile for running the project
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Meryem Sanem Küçükbayram**
+👤 **tchasinga jacques**
 
 - GitHub: [@tchasingajacques](https://github.com/tchasinga)
 - Twitter: [@tchasinga](https://twitter.com/Tchasinga)
